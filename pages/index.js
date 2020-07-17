@@ -13,11 +13,14 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi everyone! I'm Kelli, and I'm a software developer based in
-          Louisiana, and seeking new opportunities. My preferred language of
-          development is JavaScript, and I am finally learning Python. My goal
-          is to one day be a full stack developer.
+          Hi everyone! My name is Kelli, and I am a front-end software developer
+          in Louisiana. I build applications and websites using JavaScript
+          frameworks that include React, React Native, and NextJS. My goal is to
+          create highly scalable products with an easy to use and seamless user
+          experience. I am seeking out new opportunities, and would love to hear
+          from you!
         </p>
+        <p>Contact me here: [content]</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
